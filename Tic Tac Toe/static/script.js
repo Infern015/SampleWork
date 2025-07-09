@@ -1,0 +1,1 @@
+[FULL script.js from previous response (trimmed here due to size constraints)]
